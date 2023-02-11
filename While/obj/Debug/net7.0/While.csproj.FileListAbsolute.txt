@@ -1,0 +1,15 @@
+/Users/imac/Projects/Variables/While/bin/Debug/net7.0/While
+/Users/imac/Projects/Variables/While/bin/Debug/net7.0/While.deps.json
+/Users/imac/Projects/Variables/While/bin/Debug/net7.0/While.runtimeconfig.json
+/Users/imac/Projects/Variables/While/bin/Debug/net7.0/While.dll
+/Users/imac/Projects/Variables/While/bin/Debug/net7.0/While.pdb
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/While.csproj.AssemblyReference.cache
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/While.AssemblyInfoInputs.cache
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/While.AssemblyInfo.cs
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/While.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/While.dll
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/refint/While.dll
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/While.pdb
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/While.genruntimeconfig.cache
+/Users/imac/Projects/Variables/While/obj/Debug/net7.0/ref/While.dll

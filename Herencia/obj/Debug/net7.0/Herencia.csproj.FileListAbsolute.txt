@@ -1,0 +1,15 @@
+/Users/imac/Projects/Variables/Herencia/bin/Debug/net7.0/Herencia
+/Users/imac/Projects/Variables/Herencia/bin/Debug/net7.0/Herencia.deps.json
+/Users/imac/Projects/Variables/Herencia/bin/Debug/net7.0/Herencia.runtimeconfig.json
+/Users/imac/Projects/Variables/Herencia/bin/Debug/net7.0/Herencia.dll
+/Users/imac/Projects/Variables/Herencia/bin/Debug/net7.0/Herencia.pdb
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/Herencia.csproj.AssemblyReference.cache
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/Herencia.AssemblyInfoInputs.cache
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/Herencia.AssemblyInfo.cs
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/Herencia.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/Herencia.dll
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/refint/Herencia.dll
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/Herencia.pdb
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/Herencia.genruntimeconfig.cache
+/Users/imac/Projects/Variables/Herencia/obj/Debug/net7.0/ref/Herencia.dll

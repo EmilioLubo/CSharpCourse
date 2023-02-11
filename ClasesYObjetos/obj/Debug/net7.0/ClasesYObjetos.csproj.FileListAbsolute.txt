@@ -1,0 +1,15 @@
+/Users/imac/Projects/Variables/ClasesYObjetos/bin/Debug/net7.0/ClasesYObjetos
+/Users/imac/Projects/Variables/ClasesYObjetos/bin/Debug/net7.0/ClasesYObjetos.deps.json
+/Users/imac/Projects/Variables/ClasesYObjetos/bin/Debug/net7.0/ClasesYObjetos.runtimeconfig.json
+/Users/imac/Projects/Variables/ClasesYObjetos/bin/Debug/net7.0/ClasesYObjetos.dll
+/Users/imac/Projects/Variables/ClasesYObjetos/bin/Debug/net7.0/ClasesYObjetos.pdb
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/ClasesYObjetos.csproj.AssemblyReference.cache
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/ClasesYObjetos.AssemblyInfoInputs.cache
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/ClasesYObjetos.AssemblyInfo.cs
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/ClasesYObjetos.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/ClasesYObjetos.dll
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/refint/ClasesYObjetos.dll
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/ClasesYObjetos.pdb
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/ClasesYObjetos.genruntimeconfig.cache
+/Users/imac/Projects/Variables/ClasesYObjetos/obj/Debug/net7.0/ref/ClasesYObjetos.dll

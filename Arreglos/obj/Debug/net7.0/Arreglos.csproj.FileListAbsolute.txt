@@ -1,0 +1,15 @@
+/Users/imac/Projects/Variables/Arreglos/bin/Debug/net7.0/Arreglos
+/Users/imac/Projects/Variables/Arreglos/bin/Debug/net7.0/Arreglos.deps.json
+/Users/imac/Projects/Variables/Arreglos/bin/Debug/net7.0/Arreglos.runtimeconfig.json
+/Users/imac/Projects/Variables/Arreglos/bin/Debug/net7.0/Arreglos.dll
+/Users/imac/Projects/Variables/Arreglos/bin/Debug/net7.0/Arreglos.pdb
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/Arreglos.csproj.AssemblyReference.cache
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/Arreglos.AssemblyInfoInputs.cache
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/Arreglos.AssemblyInfo.cs
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/Arreglos.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/Arreglos.dll
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/refint/Arreglos.dll
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/Arreglos.pdb
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/Arreglos.genruntimeconfig.cache
+/Users/imac/Projects/Variables/Arreglos/obj/Debug/net7.0/ref/Arreglos.dll

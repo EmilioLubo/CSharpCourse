@@ -1,0 +1,15 @@
+/Users/imac/Projects/Variables/SwitchCase/bin/Debug/net7.0/SwitchCase
+/Users/imac/Projects/Variables/SwitchCase/bin/Debug/net7.0/SwitchCase.deps.json
+/Users/imac/Projects/Variables/SwitchCase/bin/Debug/net7.0/SwitchCase.runtimeconfig.json
+/Users/imac/Projects/Variables/SwitchCase/bin/Debug/net7.0/SwitchCase.dll
+/Users/imac/Projects/Variables/SwitchCase/bin/Debug/net7.0/SwitchCase.pdb
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/SwitchCase.csproj.AssemblyReference.cache
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/SwitchCase.AssemblyInfoInputs.cache
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/SwitchCase.AssemblyInfo.cs
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/SwitchCase.dll
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/refint/SwitchCase.dll
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/SwitchCase.pdb
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/SwitchCase.genruntimeconfig.cache
+/Users/imac/Projects/Variables/SwitchCase/obj/Debug/net7.0/ref/SwitchCase.dll

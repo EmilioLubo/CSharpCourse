@@ -1,0 +1,15 @@
+/Users/imac/Projects/Variables/TiposDeDato/bin/Debug/net7.0/TiposDeDato
+/Users/imac/Projects/Variables/TiposDeDato/bin/Debug/net7.0/TiposDeDato.deps.json
+/Users/imac/Projects/Variables/TiposDeDato/bin/Debug/net7.0/TiposDeDato.runtimeconfig.json
+/Users/imac/Projects/Variables/TiposDeDato/bin/Debug/net7.0/TiposDeDato.dll
+/Users/imac/Projects/Variables/TiposDeDato/bin/Debug/net7.0/TiposDeDato.pdb
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/TiposDeDato.csproj.AssemblyReference.cache
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/TiposDeDato.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/TiposDeDato.AssemblyInfoInputs.cache
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/TiposDeDato.AssemblyInfo.cs
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/TiposDeDato.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/TiposDeDato.dll
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/refint/TiposDeDato.dll
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/TiposDeDato.pdb
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/TiposDeDato.genruntimeconfig.cache
+/Users/imac/Projects/Variables/TiposDeDato/obj/Debug/net7.0/ref/TiposDeDato.dll

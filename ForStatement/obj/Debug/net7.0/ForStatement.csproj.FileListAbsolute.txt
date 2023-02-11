@@ -1,0 +1,15 @@
+/Users/imac/Projects/Variables/ForStatement/bin/Debug/net7.0/ForStatement
+/Users/imac/Projects/Variables/ForStatement/bin/Debug/net7.0/ForStatement.deps.json
+/Users/imac/Projects/Variables/ForStatement/bin/Debug/net7.0/ForStatement.runtimeconfig.json
+/Users/imac/Projects/Variables/ForStatement/bin/Debug/net7.0/ForStatement.dll
+/Users/imac/Projects/Variables/ForStatement/bin/Debug/net7.0/ForStatement.pdb
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/ForStatement.csproj.AssemblyReference.cache
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/ForStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/ForStatement.AssemblyInfoInputs.cache
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/ForStatement.AssemblyInfo.cs
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/ForStatement.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/ForStatement.dll
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/refint/ForStatement.dll
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/ForStatement.pdb
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/ForStatement.genruntimeconfig.cache
+/Users/imac/Projects/Variables/ForStatement/obj/Debug/net7.0/ref/ForStatement.dll

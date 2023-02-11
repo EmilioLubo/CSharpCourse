@@ -1,0 +1,15 @@
+/Users/imac/Projects/Variables/Propiedades/bin/Debug/net7.0/Propiedades
+/Users/imac/Projects/Variables/Propiedades/bin/Debug/net7.0/Propiedades.deps.json
+/Users/imac/Projects/Variables/Propiedades/bin/Debug/net7.0/Propiedades.runtimeconfig.json
+/Users/imac/Projects/Variables/Propiedades/bin/Debug/net7.0/Propiedades.dll
+/Users/imac/Projects/Variables/Propiedades/bin/Debug/net7.0/Propiedades.pdb
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/Propiedades.csproj.AssemblyReference.cache
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/Propiedades.AssemblyInfoInputs.cache
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/Propiedades.AssemblyInfo.cs
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/Propiedades.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/Propiedades.dll
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/refint/Propiedades.dll
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/Propiedades.pdb
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/Propiedades.genruntimeconfig.cache
+/Users/imac/Projects/Variables/Propiedades/obj/Debug/net7.0/ref/Propiedades.dll

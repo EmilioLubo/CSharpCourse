@@ -1,0 +1,15 @@
+/Users/imac/Projects/Variables/Funciones/bin/Debug/net7.0/Funciones
+/Users/imac/Projects/Variables/Funciones/bin/Debug/net7.0/Funciones.deps.json
+/Users/imac/Projects/Variables/Funciones/bin/Debug/net7.0/Funciones.runtimeconfig.json
+/Users/imac/Projects/Variables/Funciones/bin/Debug/net7.0/Funciones.dll
+/Users/imac/Projects/Variables/Funciones/bin/Debug/net7.0/Funciones.pdb
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/Funciones.csproj.AssemblyReference.cache
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/Funciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/Funciones.AssemblyInfoInputs.cache
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/Funciones.AssemblyInfo.cs
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/Funciones.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/Funciones.dll
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/refint/Funciones.dll
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/Funciones.pdb
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/Funciones.genruntimeconfig.cache
+/Users/imac/Projects/Variables/Funciones/obj/Debug/net7.0/ref/Funciones.dll
