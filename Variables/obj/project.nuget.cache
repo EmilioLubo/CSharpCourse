@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQQpRxz6IFvxI615GrppNgtXfoN8j7vGoAJx21mJFso3HekRCvX+8hKg/qBMsslvIAaf3uHBi4KNhjoVksqw0g==",
+  "dgSpecHash": "aTzwBsN5y9XZmmHZyAZOP/jT2dOPm2gcdVZn9AHysmC7tlAZriBItHiEUeQHKG4PS/0qqKi7ENou8amGEE1q1A==",
   "success": true,
-  "projectFilePath": "/Users/imac/Projects/CSharpUdemy/Variables/Variables.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Variables\\Variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

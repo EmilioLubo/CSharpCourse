@@ -1,0 +1,15 @@
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\bin\Debug\net6.0\Json.exe
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\bin\Debug\net6.0\Json.deps.json
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\bin\Debug\net6.0\Json.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\bin\Debug\net6.0\Json.dll
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\bin\Debug\net6.0\Json.pdb
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\Json.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\Json.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\Json.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\Json.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\Json.dll
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\refint\Json.dll
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\Json.pdb
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\Json.genruntimeconfig.cache
+C:\Users\Usuario\Source\Repos\CSharpCourse\Json\obj\Debug\net6.0\ref\Json.dll
