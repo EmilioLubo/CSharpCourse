@@ -1,0 +1,15 @@
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\bin\Debug\net6.0\LINQ-Join.exe
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\bin\Debug\net6.0\LINQ-Join.deps.json
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\bin\Debug\net6.0\LINQ-Join.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\bin\Debug\net6.0\LINQ-Join.dll
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\bin\Debug\net6.0\LINQ-Join.pdb
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\LINQ-Join.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\LINQ-Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\LINQ-Join.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\LINQ-Join.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\LINQ-Join.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\LINQ-Join.dll
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\refint\LINQ-Join.dll
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\LINQ-Join.pdb
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\LINQ-Join.genruntimeconfig.cache
+C:\Users\Usuario\Source\Repos\CSharpCourse\LINQ-Join\obj\Debug\net6.0\ref\LINQ-Join.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Herencia\\Herencia.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Herencia\\Herencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Herencia\\Herencia.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Herencia\\Herencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Herencia\\Herencia.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Herencia\\Herencia.csproj",
         "projectName": "Herencia",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Herencia\\Herencia.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Herencia\\Herencia.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Herencia\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Herencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

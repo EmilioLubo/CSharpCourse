@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l5XDH7VLQh7tSEKN4y4pG5uiyXei7iZ3lqUk6o+xo8AME3kOdXyGhdjzF755l0J5b/6TwRT8B1oWGUsp7lT7DQ==",
+  "dgSpecHash": "MBpbOfihC6XqebzoeJXLRy/ajJyPcixlBtx/NT1Jhw7rMcqL+kX6DgtpipGu9oIjaggMi0ZzKEqfj/4ttJef8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Static\\Static.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Static\\Static.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

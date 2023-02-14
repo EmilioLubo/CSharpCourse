@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Sobreescritura\\Sobreescritura.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Sobreescritura\\Sobreescritura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Sobreescritura\\Sobreescritura.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Sobreescritura\\Sobreescritura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Sobreescritura\\Sobreescritura.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Sobreescritura\\Sobreescritura.csproj",
         "projectName": "Sobreescritura",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Sobreescritura\\Sobreescritura.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Sobreescritura\\Sobreescritura.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Sobreescritura\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Sobreescritura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\ClasesYObjetos\\ClasesYObjetos.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\ClasesYObjetos\\ClasesYObjetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\ClasesYObjetos\\ClasesYObjetos.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\ClasesYObjetos\\ClasesYObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\ClasesYObjetos\\ClasesYObjetos.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\ClasesYObjetos\\ClasesYObjetos.csproj",
         "projectName": "ClasesYObjetos",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\ClasesYObjetos\\ClasesYObjetos.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\ClasesYObjetos\\ClasesYObjetos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\ClasesYObjetos\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\ClasesYObjetos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

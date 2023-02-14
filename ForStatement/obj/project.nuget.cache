@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lvOuMAnRSp/6ZItSC1BHJsrQBRp44HiNAk2LAvZ5noFVyG6xnwoSFQTeuI5uJCz9wdl3s0Ge6Xeqz+6Bs7tQhg==",
+  "dgSpecHash": "8ipsEK4fGrhAymJcozi/xNAyfd9ZgL1rvXpZtOv5V9/sV4C9EM8ys61LG0EdixYbZ1SnqCcc6J20I4YA/R1sEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\ForStatement\\ForStatement.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\ForStatement\\ForStatement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

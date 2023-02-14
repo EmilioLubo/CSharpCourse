@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Funciones\\Funciones.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Funciones\\Funciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Funciones\\Funciones.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Funciones\\Funciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Funciones\\Funciones.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Funciones\\Funciones.csproj",
         "projectName": "Funciones",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Funciones\\Funciones.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Funciones\\Funciones.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\CSharpCourse\\Funciones\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\CSharpCourse\\Funciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
